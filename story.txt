@@ -1,0 +1,8 @@
+Once upon a time, a man named <character> 
+jumped a <adjective1> <animal> in <place>.
+
+<character> then journeyed through <weather_condition>,
+then he lost his <object>.
+
+<character2> said 'I will help you find the
+<object>'
